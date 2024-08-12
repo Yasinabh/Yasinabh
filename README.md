@@ -1,15 +1,18 @@
 <h1 align="left">Hi 👋, I'm Mohamed Yasin</h1>
 <h3 align="left">A Certified Data Science Professional</h3>
 
-- 🔭 I’m currently working in **The Sparks Foundation** (Data Science Intern)
+- 🔭 I’m currently looking for the ** Data Analyst** job
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **Gen AI**, **Data Engineering** and **Power Platform**
 
 - 📫 Reach me via **yasinabh0412@gmail.com**
 
-As a Dynamic Data professional with 3 years of experience across domains like Data Analytics, SAP EHS/EHSM and Oil & Gas industry. Having Proficient skillset rooted in analytical tools like SQL, Python, Exploratory Data analysis, visualization and excel in translating complex datasets into clear and actionable recommendations, thereby contributing the business to drive decision making strategies and enhance operational efficiency. Eager to leverage my skills to drive impactful outcomes towards the success of the organization.
+Google Certified Data professional with 3 years of experience in Data Analytics and SAP. Proficient in SQL, Python, ML
+Algorithms, Exploratory Data Analysis, visualization and Advanced Excel. Skilled at translating complex datasets
+into clear, actionable insights to drive strategic decisions and improve operational efficiency. Eager to contribute
+to organizational success through impact data-driven strategies.
 
-<b>Skills:<b> SQL, Power BI, Machine Learning, Python, Statistics
+<b>Skills:<b> SQL, Power BI, Advanced Excel, Machine Learning, Python, Statistics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
