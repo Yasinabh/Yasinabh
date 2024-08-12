@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohamed Yasin</h1>
 <h3 align="left">A Certified Data Science Professional</h3>
 
-- 🔭 I’m currently looking for the ** Data Analyst** job
+- 🔭 I’m currently looking for the **Data Analyst** job
 
 - 🌱 I’m currently learning **Gen AI**, **Data Engineering** and **Power Platform**
 
